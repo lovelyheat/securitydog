@@ -1,6 +1,6 @@
 # Security Dog
 
-A discord bot I've wrote in [sapphire framework][sapphire] to delete Discord chats using a Task Scheduler.
+A discord bot I've wrote with the help of [sapphire framework][sapphire] to delete Discord chats using a Task Scheduler.
 
 ## How to use it?
 
